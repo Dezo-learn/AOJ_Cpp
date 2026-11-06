@@ -4,7 +4,7 @@ using namespace std;
 
 void slove()
 {
-    
+    cout << "Hello World" << endl;
 }
 
 signed main()
