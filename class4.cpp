@@ -2,13 +2,12 @@
 #include <algorithm>
 using namespace std;
 
-int slove()
+void slove()
 {
     
-    return 0;
 }
 
-int main()
+signed main()
 {
     slove();
     return 0;
